@@ -8,21 +8,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1227,50:25627E,100:9A9A9A&height=220&section=header&text=THALITA%20BEATRIZ&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SYSTEM%20DEVELOPER%20%7C%20TECH%20%7C%20INNOVATION&descAlignY=58&descSize=17" width="100%"/>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                  ◈ SYSTEM INITIALIZATION ◈                  ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  [✓] Neural Interface............... ONLINE                  ║
-║  [✓] Developer Profile............. LOADED                  ║
-║  [✓] Programming Modules........... ACTIVE                  ║
-║  [✓] Creative Engine............... ACTIVE                  ║
-║  [✓] Future Protocol............... RUNNING                  ║
-║                                                              ║
-║             WELCOME TO MY DIGITAL UNIVERSE                  ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 <a href="https://github.com/thalitabeatriz28">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=25627E&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Thalita+Beatriz+%F0%9F%91%8B;Software+Developer+in+progress;Turning+ideas+into+digital+experiences;Code.+Create.+Learn.+Innovate.;Initializing+the+next+version..." alt="Typing Animation"/>
 </a>
