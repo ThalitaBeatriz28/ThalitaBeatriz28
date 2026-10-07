@@ -55,11 +55,6 @@ mindset:
 
 </td>
 
-<td width="45%" align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thalitabeatriz28&bg_color=0D1227&color=FFFFFF&line=25627E&point=9A9A9A&area=true&hide_border=true" width="100%"/>
-
-</td>
 </tr>
 </table>
 
