@@ -109,8 +109,6 @@ mindset:
 
 <br/>
 
-Canva
-
 </td>
 
 <td align="center" width="25%">
@@ -142,28 +140,28 @@ Canva
 
 <td width="50%" valign="top">
 
-### 🧠 BetWell
+### ⚒️ Forja Kronita
 
-**Web application focused on sports & responsible data visualization.**
+**Technology and innovation project focused on creative digital solutions.**
 
 `HTML` `CSS` `JavaScript`
 
-<a href="https://thalitabeatriz28.github.io/BetWell/">
-<img src="https://img.shields.io/badge/ACCESS_PROJECT-25627E?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/ThalitaBeatriz28">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-25627E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚙️ Cadastro de Equipe
+### 🚘 Future Motors
 
-**Management system developed for practical programming studies.**
+**Automotive technology project focused on digital solutions and innovation.**
 
-`Python` `Colorama` `Database`
+`HTML` `CSS` `JavaScript`
 
-<a href="https://github.com/thalitabeatriz28">
-<img src="https://img.shields.io/badge/VIEW_CODE-0D1227?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/ThalitaBeatriz28">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0D1227?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
