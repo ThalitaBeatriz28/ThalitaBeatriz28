@@ -172,7 +172,7 @@ Technology and innovation project focused on creative digital solutions.
 
 `HTML` `CSS` `JavaScript`
 
-<a href="https://github.com/ThalitaBeatriz28">
+<a href="https://thalitabeatriz28.github.io/ForjaKronita/">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-63453B?style=for-the-badge&logo=github&logoColor=F7F5F2"/>
 </a>
 
@@ -185,7 +185,7 @@ Automotive technology project focused on digital solutions and innovation.
 
 `HTML` `CSS` `JavaScript`
 
-<a href="https://github.com/ThalitaBeatriz28">
+<a href="https://pedroosaint.github.io/Future-Motors/">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-9E7E73?style=for-the-badge&logo=github&logoColor=F7F5F2"/>
 </a>
 
