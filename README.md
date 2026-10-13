@@ -66,7 +66,7 @@ I'm currently studying **Systems Development** and I love turning ideas into fun
 
 | `03` | **Database** |
 | :--: | :----------- |
-|      | MySQL · SQLite |
+|      | MySQL  |
 
 | `04` | **Systems** |
 | :--: | :---------- |
