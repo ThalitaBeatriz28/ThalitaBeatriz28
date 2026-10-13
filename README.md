@@ -50,7 +50,7 @@ I'm currently studying **Systems Development** and I love turning ideas into fun
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,mysql,sqlite,arduino&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,mysql,arduino&theme=light" />
 
 </div>
 
