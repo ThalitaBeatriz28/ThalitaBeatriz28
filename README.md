@@ -15,30 +15,21 @@
 
 ## 👩🏻‍💻 About me
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<table> <tr> <td width="60%" valign="top">
 
-I'm **Thalita Beatriz**, a Brazilian developer and student based in **São Paulo**, passionate about technology, programming and innovation.
+Sou a **Thalita Beatriz**, desenvolvedora e estudante brasileira de São Paulo, apaixonada por tecnologia, programação e inovação.
 
-I'm currently studying **Systems Development** and I love turning ideas into functional, creative and meaningful digital projects.
+Atualmente estou cursando Desenvolvimento de Sistemas e adoro transformar ideias em projetos digitais funcionais, criativos e significativos.
 
-</td>
-<td width="40%" valign="top">
+</td> <td width="40%" valign="top">
 
 **What I enjoy**
-
-- 🌐 Web Development
-- 🐍 Programming
-- 🗄️ Databases
-- 🔌 Embedded Systems
-- 💡 Technology & Innovation
-
-</td>
-</tr>
-</table>
-
-<br/>
+- 🌐 Desenvolvimento Web
+- 🐍 Programação
+- 🗄️ Bancos de dados
+- 🔌 Sistemas embarcados
+- 💡 Tecnologia e inovação
+</td> </tr> </table> <br/>
 
 ## 🧰 Tech stack
 
