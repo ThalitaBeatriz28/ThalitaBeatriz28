@@ -50,7 +50,7 @@ I'm currently studying **Systems Development** and I love turning ideas into fun
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,mysql,arduino&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,mysql,arduino,figma&theme=light" />
 
 </div>
 
@@ -71,6 +71,10 @@ I'm currently studying **Systems Development** and I love turning ideas into fun
 | `04` | **Systems** |
 | :--: | :---------- |
 |      | Arduino |
+
+| `05` | **Design** |
+| :--: | :--------- |
+|      | Figma · Canva |
 
 <div align="center">
 
@@ -117,52 +121,37 @@ I'm currently studying **Systems Development** and I love turning ideas into fun
 
 <br/>
 
-## 🎨 Toolkit
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 🎨 DESIGN
-
-<img src="https://skillicons.dev/icons?i=figma&theme=light" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/FIGMA-63453B?style=for-the-badge&logo=figma&logoColor=F7F5F2"/>
-<img src="https://img.shields.io/badge/CANVA-9E7E73?style=for-the-badge&logo=canva&logoColor=F7F5F2"/>
-
-<br/><br/>
-
-I use **Figma** to design interfaces and prototype ideas before writing a single line of code, and **Canva** for visual content.
-
-**UI Design** · **Prototyping** · **Visual Identity**
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 🧩 DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=light" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/EDITOR-VS_CODE-63453B?style=for-the-badge&logo=visualstudiocode&logoColor=F7F5F2"/>
-<img src="https://img.shields.io/badge/VERSIONING-GIT-9E7E73?style=for-the-badge&logo=git&logoColor=F7F5F2"/>
-
-<br/><br/>
-
-Code · Version Control · Repositories
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## 🚀 Projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### 👩‍🏫 AIRC
+
+Private English classes website, with a focus on kids, teens and adults.
+
+`HTML` `CSS` `JavaScript`
+
+<a href="https://airc-three.vercel.app/">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-63453B?style=for-the-badge&logo=github&logoColor=F7F5F2"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 MercadoLivro
+
+Magical online bookstore for developers, built with pure HTML, CSS and JavaScript.
+
+`HTML` `CSS` `JavaScript`
+
+<a href="https://mercadolivro.github.io/MercadoLivro/">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-9E7E73?style=for-the-badge&logo=github&logoColor=F7F5F2"/>
+</a>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
